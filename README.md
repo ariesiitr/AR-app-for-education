@@ -11,7 +11,7 @@ Members
 
 - Apoorv Bansal
 - Anushka Gupta
-- Mitali Saraswati 
+- Mitali Saraswat 
 - Janhavi Sukhdeve
 - Priyanshu Gupta
 
@@ -74,6 +74,15 @@ Requirements
 - Download all the images from repository.
 - Open the project and scan the image.
 - 3d models will pop up.
+- For running the app in mobile, switch on the developer setting.
+
+
+
+Install the app from below drive link
+-----
+https://drive.google.com/drive/folders/1ru9-1nDNy8AQ82Yq2YMpPfX9xrWoDZ5H?usp=sharing
+
+
 
 
 
