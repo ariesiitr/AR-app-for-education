@@ -1,6 +1,9 @@
 
 
 
+
+
+
 AR App for education
 ---
 
@@ -44,4 +47,13 @@ Aim & Future
 - We want to increase our database and scale our app in particular fields like human anatomy.
 - We also want to incorporate machine and deep learning so that different images of same object can be detected.
 - Scaling our app in educational field.
+
+Screenshots
+-----
+
+<img width="371" alt="ss1" src="https://user-images.githubusercontent.com/83125581/168342218-d2b0ab6b-10a4-4eac-b6ac-55d097237a97.png">
+
+![WhatsApp Image 2022-05-13 at 10 29 09 PM](https://user-images.githubusercontent.com/83125581/168342259-7ddb5d30-ccb2-44f1-8ec5-1dc3949af437.jpeg)
+
+
 
