@@ -4,3 +4,4 @@ So our team came up with an interesting idea to incorporate AR into education se
 At this level we have just incorporated 4 models namely brain,heart,robot and building. We have used Unity 3D engine for detection of image targets,Vuforia SDK for compiling our database and 3DsMax for making the 3D models.
 We have uploaded the images,3D models,code for better understanding of the project.
 
+![WhatsApp Image 2022-05-13 at 10 29 09 PM](https://user-images.githubusercontent.com/83125581/168337551-90ba74f2-a7e2-4877-98a7-a2707f2161ae.jpeg)
