@@ -3,6 +3,11 @@ AR App for education
 
 App for making studies more interactive.
 
+Mentors
+-------
+- Avichal Gupta
+- Agrim Agrawal
+
 Members
 ----
 
@@ -61,9 +66,10 @@ Working of App
 
 Scripts
 -----
-NewBehaviousScript.cs-This code was basically for zooming in and zooming out.
+- NewBehaviousScript.cs-This code was basically for zooming in and zooming out.
+- .mat and .fbx - This contains the 3d-model files.
 
-Requirements
+Usage
 ------
 
 - Download Unity 3d software and install unity hub.
@@ -73,11 +79,21 @@ Requirements
 - 3d models will pop up.
 - For running the app in mobile, switch on the developer setting.
 
+Branches
+--------
+- main- It contains the readme file of our project.
+- master - This contains all the image and 3d model files used in the project.
+- finalproject - It contains the final unity project file and also the descriptive presentation of our project.
 
 
 Install the app from below drive link
 -----
 https://drive.google.com/drive/folders/1ru9-1nDNy8AQ82Yq2YMpPfX9xrWoDZ5H?usp=sharing
+
+
+
+
+
 
 
 
