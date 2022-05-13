@@ -5,4 +5,4 @@ At this level we have just incorporated 4 models namely brain,heart,robot and bu
 We have uploaded the images,3D models,code for better understanding of the project.
 
 ![WhatsApp Image 2022-05-13 at 10 29 09 PM](https://user-images.githubusercontent.com/83125581/168337551-90ba74f2-a7e2-4877-98a7-a2707f2161ae.jpeg)
-[README.md](https://github.com/ariesiitr/AR-app-for-education/files/8689799/README.md)
+
