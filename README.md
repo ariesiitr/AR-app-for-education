@@ -1,9 +1,6 @@
 
 
 
-
-
-
 AR App for education
 ---
 
@@ -48,12 +45,40 @@ Aim & Future
 - We also want to incorporate machine and deep learning so that different images of same object can be detected.
 - Scaling our app in educational field.
 
-Screenshots
+Flowchart
 -----
+<img width="371" alt="ss1" src="https://user-images.githubusercontent.com/83125581/168342876-d4caa24f-f67b-46f3-85d2-ad2c7c0a4881.png">
 
-<img width="371" alt="ss1" src="https://user-images.githubusercontent.com/83125581/168342218-d2b0ab6b-10a4-4eac-b6ac-55d097237a97.png">
 
-![WhatsApp Image 2022-05-13 at 10 29 09 PM](https://user-images.githubusercontent.com/83125581/168342259-7ddb5d30-ccb2-44f1-8ec5-1dc3949af437.jpeg)
+Images used
+-----
+![IMG-20200924-WA0040](https://user-images.githubusercontent.com/83125581/168342905-0a892b06-a4b7-4ca1-acad-87f6c0971075.jpg)
+![IMG-20200924-WA0042](https://user-images.githubusercontent.com/83125581/168342906-60355981-d11c-4805-9ec5-4567f12a84f1.jpg)
+![IMG-20200924-WA0046](https://user-images.githubusercontent.com/83125581/168342907-b48c9074-bded-480a-bdef-a1b4f325b3e6.jpg)
+![IMG-20200924-WA0047](https://user-images.githubusercontent.com/83125581/168342910-8d389577-6b5a-4457-a754-b33fbd8e56d4.jpg)
+
+
+Working of App
+----
+![WhatsApp Image 2022-05-13 at 10 29 09 PM](https://user-images.githubusercontent.com/83125581/168342932-cf2c7982-3f1b-4048-97c6-60369af01400.jpeg)
+
+Scripts
+-----
+NewBehaviousScript.cs-This code was basically for zooming in and zooming out.
+
+Requirements
+------
+
+- Download Unity 3d software and install unity hub.
+- Install My project 4 from our github repository.
+- Download all the images from repository.
+- Open the project and scan the image.
+- 3d models will pop up.
+
+
+
+
+
 
 
 
