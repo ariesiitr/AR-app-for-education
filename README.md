@@ -81,6 +81,7 @@ Usage
 - Open the project and scan the image.
 - 3d models will pop up.
 - For running the app in mobile, switch on the developer setting.
+- Our app runs on higher version of Android.
 
 Branches
 --------
